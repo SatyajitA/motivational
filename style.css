@@ -1,0 +1,20 @@
+html{
+    background-color:black;
+}
+#a{
+    font-family: "Oswald", sans-serif;
+    color: #6AD4DD;
+    margin-left: 235px;
+    
+}
+img{
+    border:5px solid white;
+    margin-left: 77px;
+    height: 300px;
+    
+    
+}
+p{
+    color: aliceblue;
+    margin-left: 190px;
+}
